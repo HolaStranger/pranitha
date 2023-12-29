@@ -11,7 +11,7 @@
  <body onload="init();">
   <form name="frmCashier" id="frmCashier" action="" >
    <table>
-    <caption id="username">SavorSea Delights Restoran</caption>
+    <caption id="username">SavorSea Delights Ennada Nadakathu Inge</caption>
     <tr>
      <th>Item</th>
      <th>Price/Unit</th>
